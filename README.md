@@ -1,0 +1,3 @@
+# Django unchained
+
+Attempting to relearn the very first web development tech framework i ever learnt...
